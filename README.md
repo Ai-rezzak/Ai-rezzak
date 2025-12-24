@@ -29,33 +29,33 @@ I'm an **Electrical and Electronics Engineer** with a passion for **Artificial I
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Dog Body Language Analysis</h3>
+      <h3 align="center">CNN Training Repository</h3>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/dog-body-language-analysis" target="_blank">
+        <a href="https://github.com/Ai-rezzak/CNN_train_respository" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </p>
-      <p>TÜBİTAK 2209A supported research project analyzing dog behavior through computer vision and deep learning techniques.</p>
+      <p>Comprehensive CNN training framework with custom architectures for image classification tasks.</p>
     </td>
     <td width="50%">
-      <h3 align="center">YOLO Custom Model Training</h3>
+      <h3 align="center">Person Detection with ResNet</h3>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/yolo-custom-training" target="_blank">
+        <a href="https://github.com/Ai-rezzak/person_ronaldo_with_ResNet" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </p>
-      <p>Custom YOLO model implementation for object detection with detailed training pipeline and optimization techniques.</p>
+      <p>Real-time person detection system using ResNet architecture for accurate identification.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Panoramic Dental Image Analysis</h3>
+      <h3 align="center">Real-time Detection Web App</h3>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/dental-image-analysis" target="_blank">
+        <a href="https://github.com/Ai-rezzak/real-time-ronaldo-and_person-detection-with-html" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </p>
-      <p>AI-powered dental image analysis system for automated detection and classification of dental conditions.</p>
+      <p>Web-based real-time object detection application with HTML interface and deep learning backend.</p>
     </td>
     <td width="50%">
       <h3 align="center">More Projects</h3>
@@ -89,26 +89,23 @@ I'm an **Electrical and Electronics Engineer** with a passion for **Artificial I
 
 **Areas of Expertise:**
 - 🎯 Computer Vision (Object Detection, Image Classification, Segmentation)
-- 🧠 Deep Learning (CNNs, Transfer Learning, Model Optimization)
+- 🧠 Deep Learning (CNNs, ResNet, VGGNet, Transfer Learning)
 - 📊 Data Science & Machine Learning
 - 🔬 Research & Development (TÜBİTAK Projects)
+- 🌐 Web-based AI Applications
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ai-rezzak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ai-rezzak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ai-rezzak&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ai-rezzak&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="90%"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ai-rezzak&theme=radical" alt="GitHub Activity" width="100%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ai-rezzak&theme=radical" width="48%" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ai-rezzak&theme=radical" width="48%" alt="Top Languages"/>
+  
+</div>
 
 ---
 
