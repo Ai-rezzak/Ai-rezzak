@@ -26,102 +26,86 @@ I'm an **Electrical and Electronics Engineer** with a passion for **Artificial I
 
 ## 🚀 Featured Projects
 
-<table>
+<table border="0">
   <tr>
-    <td width="50%">
-      <h3 align="center">🦷 Dental X-Ray Analysis with YOLOv8</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🦷 Dental X-Ray Analysis</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Accuracy-83%25-success?style=for-the-badge"/>
+      </p>
+      <p align="justify"><b>🎓 Bitirme Tezi:</b> Panoramik röntgenlerde implant, dolgu ve kanal tedavilerinin derin öğrenme ile otomatik tespiti.</p>
       <p align="center">
         <a href="https://github.com/Ai-rezzak/dental-xray-yolov8-detection" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
+          <img src="https://img.shields.io/badge/Projeyi_İncele-000?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Accuracy-83%25-success?style=flat"/>
-      </p>
-      <p><b>🎓 Graduation Thesis:</b> Automated detection of dental treatments (implants, fillings, root canals) in panoramic X-rays using deep learning.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3 align="center">🐶 Dog Emotion Detection</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TÜBİTAK_2209--A-8A2BE2?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/YOLOv8-FFB000?style=for-the-badge"/>
+      </p>
+      <p align="justify"><b>🔬 Araştırma Projesi:</b> Köpeklerin duygusal durumlarını (Mutlu, Kızgın, Üzgün, Uyuyan) gerçek zamanlı sınıflandıran derin öğrenme sistemi.</p>
+      <p align="center">
+        <a href="https://github.com/Ai-rezzak/dog-emotion-detection-yolov8" target="_blank">
+          <img src="https://img.shields.io/badge/Projeyi_İncele-000?style=for-the-badge&logo=github" alt="View Project">
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🤖 Autonomous Vision System</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      </p>
+      <p align="justify">Akıllı nesne algılama ve bilgisayarlı görü kullanarak geliştirilmiş otonom navigasyon sistemi.</p>
+      <p align="center">
         <a href="https://github.com/Ai-rezzak/autonomous-system-vision-deep-learning" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
+          <img src="https://img.shields.io/badge/Kodlara_Göz_At-000?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      </p>
-      <p><b>🚗 Graduation Project:</b> Autonomous navigation system using computer vision and deep learning for intelligent object detection.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🧠 CNN Training Framework</h3>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/CNN_train_respository" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p>Comprehensive CNN training framework with custom architectures for image classification tasks.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👤 Person Detection with ResNet</h3>
+      <p align="justify">Görüntü sınıflandırma görevleri için özel mimarilere sahip kapsamlı CNN eğitim çerçevesi.</p>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/person_ronaldo_with_ResNet" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
+        <a href="https://github.com/Ai-rezzak/CNN_train_respository" target="_blank">
+          <img src="https://img.shields.io/badge/Kodlara_Göz_At-000?style=for-the-badge&logo=github" alt="View Project">
         </a>
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ResNet-000000?style=flat"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-      </p>
-      <p>Real-time person detection system using ResNet architecture for accurate identification and tracking.</p>
     </td>
   </tr>
+
   <tr>
-    <td width="50%">
-      <h3 align="center">⚽ Person Detection with VGGNet</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">👤 Person Detection Series</h3>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/person_ronaldo_with_VGGnet" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
-        </a>
-      </p>
-      <p align="center">
+        <img src="https://img.shields.io/badge/ResNet-000000?style=flat"/>
         <img src="https://img.shields.io/badge/VGGNet-8B0000?style=flat"/>
         <img src="https://img.shields.io/badge/Transfer_Learning-FFA500?style=flat"/>
       </p>
-      <p>Person detection implementation using VGGNet architecture with transfer learning techniques.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Real-time Detection Web App</h3>
+      <p align="justify">ResNet ve VGGNet mimarileri kullanılarak gerçekleştirilen gerçek zamanlı kişi algılama ve takip sistemleri.</p>
       <p align="center">
-        <a href="https://github.com/Ai-rezzak/real-time-ronaldo-and_person-detection-with-html" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github" alt="View Project">
-        </a>
+        <a href="https://github.com/Ai-rezzak/person_ronaldo_with_ResNet" target="_blank">🔗 ResNet</a> | 
+        <a href="https://github.com/Ai-rezzak/person_ronaldo_with_VGGnet" target="_blank">🔗 VGGNet</a>
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </p>
-      <p>Web-based real-time object detection application with HTML interface and deep learning backend.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3 align="center">📂 More Projects</h3>
-      <p align="center">
-        <a href="https://github.com/Ai-rezzak?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View_All_Repositories-000?style=for-the-badge&logo=github" alt="View All">
-        </a>
-      </p>
-      <p>Explore all my repositories for more computer vision, deep learning, and data science projects!</p>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="middle" align="center">
+      <br><br>
+      <h3>📂 Diğer Çalışmalar</h3>
+      <p>Bilgisayarlı görü ve veri bilimi üzerine daha fazla proje için tüm depolarımı keşfedin.</p>
+      <a href="https://github.com/Ai-rezzak?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/Tüm_Depoları_Görüntüle-2ea44f?style=for-the-badge&logo=github" alt="View All">
+      </a>
     </td>
   </tr>
 </table>
